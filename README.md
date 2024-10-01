@@ -19,7 +19,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/jonathan-escobar-jimenez-45a443240/" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="jonathanescobarjimenez64@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jonathanescobarjimenez64@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/jonathan-escobar" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonathan-escobar-jimenez-45a443240/" target="blank"><img align="center" src="https://img.shields.io/badge/Jonathan Escobar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="jonathanescobarjimenez64@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jonathanescobarjimenez64@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/jonathan-escobar" target="blank"><img align="center" src="https://img.shields.io/badge/jonathan-escobar-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -50,7 +50,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/jonathan-escobar/Seguridad_Informatica)
 
 <Br>
 <hr>
@@ -60,7 +60,7 @@
   
 |[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
 |---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
+|[![](https://img.shields.io/badge/Scala%20&%20Functional%20Programming%20Essentials-II-orange?style=for-the-badge)](udemy.com/certificate/UC-167567b5-707e-474d-8f20-d6fb32b19fde/)|[![](https://img.shields.io/badge/Data%20Science%20in%20Python-purple?style=for-the-badge)](https://www.udemy.com/certificate/UC-f109f848-fbaf-4572-be63-7beeea0a2605/)|[![](https://img.shields.io/badge/Curso%20Maestro%20de%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20and%20Data%20Science-yellow?style=for-the-badge)](https://github.com/Aryagm)|
   
  
 
@@ -70,7 +70,7 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
+[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=jonathan-escobar&show_icons=true&theme=merko)](https://github.com/jonathan-escobar/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-escobar&layout=compact&theme=merko)](https://github.com/jonathan-escobar/github-readme-stats)
 
  
 <Br>
@@ -91,5 +91,5 @@
 
 ------
   
-Credit: [Aryagm](https://github.com/Aryagm)
+Credit: [Aryagm](https://github.com/jonathan-escobar)
 Last Edited on: 22/06/2021
