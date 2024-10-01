@@ -50,7 +50,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathan-escobar&repo=California_Housing_Prices)](https://github.com/jonathan-escobar/Seguridad_Informatica)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathan-escobar&repo=Seguridad_Informatica)](https://github.com/jonathan-escobar/Seguridad_Informatica)
 
 <Br>
 <hr>
